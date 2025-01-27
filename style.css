@@ -1,0 +1,7 @@
+header{
+    background-image: url('img/pattern.png');
+    background-size: auto;
+    background-attachment: fixed;
+    background-color: rgb(0, 166, 255);
+    color: white;
+}
