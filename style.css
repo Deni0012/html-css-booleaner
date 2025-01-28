@@ -21,3 +21,29 @@ h3{
 #booleaner{
     text-align: left;
 }
+
+.titolo-grande{
+    display: inline;
+    font-size: 65px;
+}
+
+.grigio{
+    color: gray;
+    display: contents;
+    
+}
+
+.blue{
+    color: blue;
+}
+
+.data{
+    color: gray;
+}
+
+.descrizione-foto{
+    text-align: left;
+    
+    
+}
+
