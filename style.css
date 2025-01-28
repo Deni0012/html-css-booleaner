@@ -1,3 +1,12 @@
+/**default del body**/
+
+*{
+    margin: 0;
+    padding:0;
+}
+
+
+
 header{
     background-image: url('img/pattern.png');
     background-size: auto;
@@ -5,12 +14,17 @@ header{
     background-color: rgb(0, 166, 255);
     margin: 0;
     padding: 1.5%;
+    color: white;
+}
+
+#logo{
+    height: 40px;
 }
 
 .title{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-    border-color: black;
+    
     
 }
 
@@ -47,3 +61,15 @@ h3{
     
 }
 
+.img-monitor{
+    background-image: url(img/monitor.jpg);
+    background-size: cover;
+    color: white;
+}
+
+.img-graph{
+    background-image: url(img/graph.jpg);
+    background-size: contain;
+    margin: 20px;
+    color: white;
+}
