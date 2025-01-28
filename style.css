@@ -12,7 +12,15 @@ header{
     background-size: 30%;
     background-color: rgb(0, 166, 255);
     padding: 40px 0px 15px 0px;
-    color: white;
+    
+}
+
+#logo{
+    height: 50px;
+}
+
+h1{
+    font-size: 40px;
 }
 
 .container {
@@ -22,6 +30,10 @@ header{
 
   .dati-default {
     margin-bottom: 20px;
+  }
+
+  .yellow{
+    background-color: yellow;
   }
 
   .title-color {
@@ -40,46 +52,32 @@ header{
     font-size: 14px;
   }
 
-#logo{
-    height: 40px;
-}
+  .descrizione-foto{
+    font-size: 12px;
+  }
+
 
 .title{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-    
-    
 }
 
-h3{
+.lista{
+    list-style-position: inside;
+}
+
+.tab{
+    border-collapse: collapse;
+}
+
+.testa{
+    background-color: #20a9e5;
     text-align: left;
+    color: white;
 }
 
-#booleaner{
-    text-align: left;
-}
-
-.titolo-grande{
-    display: inline;
-    font-size: 65px;
-}
-
-.grigio{
-    color: gray;
-    display: contents;
-    
-}
-
-.blue{
-    color: blue;
-}
-
-.data{
-    color: gray;
-}
-
-.descrizione-foto{
-    text-align: left;
+.tab .riga-3{
+    width: 50%;
 }
 
 .img-monitor{
